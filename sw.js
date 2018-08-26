@@ -21,15 +21,19 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.4.1/workbox
 self.__precacheManifest = [
   {
     "url": "index.html",
-    "revision": "b83020a05bf7aab72ec55e6490ed180a"
+    "revision": "57e5d2c0c07f400a83350a8d5f232370"
   },
   {
-    "url": "life-buoy.4f62e248.png",
+    "url": "logo_192.bda0fab5.png",
     "revision": "08bb4fda6004ca86f87dffbaafeb137f"
   },
   {
-    "url": "src.65f6e68f.js",
-    "revision": "37640c0be20df97203934d74b6e9153b"
+    "url": "logo_512.9a49dbcc.png",
+    "revision": "a7c9fdeab82c30320c2f3be442ffc9d3"
+  },
+  {
+    "url": "src.5aeadf68.js",
+    "revision": "ae02bda0b8ba6dcbc8050cd180e95f26"
   },
   {
     "url": "src.a673c138.css",
